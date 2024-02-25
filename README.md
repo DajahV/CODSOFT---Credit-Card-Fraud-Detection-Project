@@ -1,6 +1,6 @@
-# This is a Data Science Credit Card Fraud Detection Project iI did with CODESOFT
+# This is a Data Science Internship I participate in with CODSOFT
 
-This is an internship project I was assigned to by CODESOFT company.
+In this internship project I work on a develop a model that classify weither a credit card transaction is fraudulent or legitimate 
 
 <a href> Click here to see my YouTube video for a stepwise approach I took to solve this problem
 
