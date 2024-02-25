@@ -2,7 +2,7 @@
 
 This is an internship project I was assigned to by CODESOFT company.
 
-<a href>Click here for a step wise video approach I took to soft this problem
+<a href>Click here for a step wise video approach I took to solve this problem
 
 I build a machine learning model to identify fraudulent credit card
 transactions. I preprocess and normalize the transaction data, handle class
