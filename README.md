@@ -2,7 +2,7 @@
 
 In this internship project I work on a develop a model that classify weither a credit card transaction is fraudulent or legitimate 
 
-<a href> Click here to see my YouTube video for a stepwise approach I took to solve this problem
+<a href> https://www.youtube.com/watch?v=HO_jOlgewxE Click here to see my YouTube video for a stepwise approach I took to solve this problem
 
 I build a machine learning model to identify fraudulent credit card
 transactions. I preprocess and normalize the transaction data, handle class
